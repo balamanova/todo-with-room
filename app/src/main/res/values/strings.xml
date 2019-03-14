@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoginAndRegistration</string>
+    <string name="username">Username</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="name">Name</string>
+    <string name="surn">Surname</string>
+    <string name="no_user_error">This user doesn\'t exist</string>
+    <string name="user_exists_error">This user already exist</string>
+    <string name="registration">Registration</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signOut">Sign Out</string>
+    <string name="data_stored">Data Stored</string>
+    <string name="back">Back</string>
+    <string name="add">+</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">save</string>
+    <string name="isSaved">New action is saved</string>
+    <string name="notSaved">New action didnt save</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+</resources>

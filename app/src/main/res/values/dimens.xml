@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editTextMarginVertical">10dp</dimen>
+    <dimen name="marginBottom20">20dp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="marginTop10">10dp</dimen>
+    <dimen name="buttonRadius">60dp</dimen>
+    <dimen name="textSize30">30sp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">6dp</dimen>
+    <dimen name="title">19sp</dimen>
+    <dimen name="content">17sp</dimen>
+    <dimen name="piority">15sp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+    <dimen name="width2">2dp</dimen>
+    <dimen name="buttonSize250dp">250dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+</resources>
